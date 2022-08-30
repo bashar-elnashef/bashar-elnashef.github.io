@@ -28,8 +28,8 @@ description: >-
   My research interests include photogrammetry and computer vision with a focus on physics-based 3-D reconstruction through refraction and in underwater enviroemnts.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://basharelnashef.com" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: basharelnashef
+url: "http://bashar-elnashef.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: bashar-elnashef
 google_scholar: tHNUc5wAAAAJ
 
 # Build settings
