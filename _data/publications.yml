@@ -47,6 +47,7 @@
   This relieves the need for the establishment of external reference frames and allows to estimate the system parameters through the course of the mission and on-the-fly"
   project_page: ''
   link: https://www.sciencedirect.com/science/article/abs/pii/S0143816621003262
+  researchgate: https://www.researchgate.net/publication/356001522_Target-free_calibration_of_flat_refractive_imaging_systems_using_two-view_geometry
   image: targetfree.jpg
   authors:
     - bashar
@@ -71,7 +72,7 @@
   title: "Analytical forward-projection and system calibration for imaging through refractive windshields in automotive applications"
   venue: ISPRS Annals of Photogrammetry, Remote Sensing & Spatial Information Sciences, 2022
   description: "We reformulate the ray-tracing problem of the ray propgation through a thick spherical interface as a 22-degree polynomial problem. 
-  This we then show can be relaxed to 4th and 8th degree polynomials for which the 4-degree one consitute a closed form solution in constant time to an already highly non-linear problem."
+  This we then show can be relaxed to 4- and 8-degree polynomials for which the 4-degree one consitute a closed form solution in constant time to an already highly non-linear problem."
   project_page: ''
   link: https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/V-2-2022/9/2022/
   image: windshiled.jpg
