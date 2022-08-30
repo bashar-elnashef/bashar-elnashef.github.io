@@ -23,12 +23,7 @@
     Worked on human activity detection.
   dates: "Jul 2017 - Sep 2017"
   location: Seattle, WA
-
-- company: Ministry of National Defense, Cyber Command
-  description: Software Engineer (mandatory military service). Worked on network monitoring software.
-  dates: "Oct 2013 - Jul 2015"
-  location: Seoul, Korea
-
+  
 - company: Google
   description: Software Engineering Intern. Create document conversion system for Google Cloud Print.
   dates: "May 2013 - Aug 2013"
