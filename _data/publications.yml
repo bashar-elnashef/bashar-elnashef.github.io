@@ -61,7 +61,7 @@
   This method is then used to improve the robustness, efficiency, and convergence of the solution when used as a refinement to the global rotations."
   project_page: ''
   link: https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/V-2-2022/325/2022/
-  researchgate: https://www.researchgate.net/publication/356001522_Target-free_calibration_of_flat_refractive_imaging_systems_using_two-view_geometry
+  researchgate: https://www.researchgate.net/publication/360685293_ROTATION_ONLY_BUNDLE-ADJUSTMENT_FOR_THE_GENERALIZED_CAMERA_MODEL_AND_ITS_APPLICATION_FOR_LARGE-SCALE_UNDERWATER_IMAGE-SETS
   image: groba.jpg
   authors:
     - bashar
@@ -77,7 +77,7 @@
   # project_page: ''
   # github: ''
   link: https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/V-2-2022/9/2022/
-  researchgate: https://www.researchgate.net/publication/356001522_Target-free_calibration_of_flat_refractive_imaging_systems_using_two-view_geometry
+  researchgate: https://www.researchgate.net/publication/360678516_ANALYTICAL_FORWARD-PROJECTION_AND_SYSTEM_CALIBRATION_FOR_IMAGING_THROUGH_REFRACTIVE_WINDSHIELDS_IN_AUTOMOTIVE_APPLICATIONS
   image: windshiled.jpg
   authors:
     - bashar
@@ -95,7 +95,7 @@
   # project_page: ''
   # github: ''
   link: https://ieeexplore.ieee.org/abstract/document/9705973
-  researchgate: https://www.researchgate.net/publication/356001522_Target-free_calibration_of_flat_refractive_imaging_systems_using_two-view_geometry
+  researchgate: https://www.researchgate.net/publication/358969469_Underwater_image_stitching_using_globally_optimal_local_homographies_with_application_to_seafloor_mosaicing
   image: mosaicing.jpg
   authors:
     - bashar
