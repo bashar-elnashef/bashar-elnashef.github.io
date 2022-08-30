@@ -4,13 +4,13 @@
   Dissertation titled: Advanced photogrammetric models for large-scale underwater mapping.
   dates: 2019 - 2022
 
-# - name: Technion - Israel Institute of Technology
-#   description: >-
-#     M.Sc. in Mapping and Geo-Information Engineering, advised by Prof. Sagi Filin.
-#   Dissertation titled: Linear and refraction-invariant models for image-based underwater mapping.
-#   dates: 2016 - 2018
+- name: Technion - Israel Institute of Technology
+  description: >-
+    M.Sc. in Mapping and Geo-Information Engineering, advised by Prof. Sagi Filin.
+  Dissertation titled: Linear and refraction-invariant models for image-based underwater mapping.
+  dates: 2016 - 2018
 
-# - name: Technion - Israel Institute of Technology
-#   description: >-
-#     B.Sc. in Mapping and Geo-Information Engineering.
-#   dates: 2012 - 2016
+- name: Technion - Israel Institute of Technology
+  description: >-
+    B.Sc. in Mapping and Geo-Information Engineering.
+  dates: 2012 - 2016
