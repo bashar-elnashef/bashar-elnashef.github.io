@@ -153,7 +153,15 @@
 - id: broomrape
   title: "3-D image-driven morphological crop analysis: a novel method for detection of sunflower broomrape initial subsoil parasitism"
   venue: Sensors, 2019
-  description: "By analysing the 3-D strucure and growth of developing plants, you can detect the preseance of harmfull broomrape."
+  description: 
+  # "By analysing the 3-D strucure and growth of developing plants, you can detect the preseance of harmfull broomrape."
+  "This paper approaches early O. cumana detection by hypothesizing that its parasitism already impacts the host plant morphology at the sub-soil surface developmental stage. 
+  To validate this hypothesis, O. cumana- infested sunflower and non-infested control plants were grown in pots and imaged weekly over 45-day period. 
+  Three-dimensional plant models were reconstructed using image-based multi-view stereo followed by derivation of their morphological parameters, down to the organ-level. 
+  Among the parameters estimated, height and first internode length were the earliest definitive indicators of infection. 
+  Furthermore, the detection timing of both parameters was early enough for herbicide post-emergence application. 
+  Considering the fact that 3-D morphological modeling is nondestructive, is based on commercially available RGB sensors and can be used under natural illumination; 
+  this approach holds potential contribution for site specific pre-emergence managements of parasitic weeds and as a phenotyping tool in O. cumana resistant sunflower breeding projects."
   # project_page: ''
   github: ''
   link: https://www.mdpi.com/1424-8220/19/7/1569
@@ -168,7 +176,10 @@
 - id: tensor
   title: "Tensor-based classification and segmentation of three-dimensional point clouds for organ-level plant phenotyping and growth analysis"
   venue: Journal of Computers and electronics in agriculture, 2019
-  description: "Perform oragan-level segmentation of complex plant 3D structure using a tensor-based geometrical representation."
+  description: "This paper presents a novel data-driven segmentation model as a basis for organ-level plant analysis. 
+  It shows that a point-wise computation of first- and second-order tensors is sufficient to characterize the 3-D data, without the need for pre-defined shape assumptions and constraints. 
+  The derived information provides an organ-level phenotyping ability, and the paper shows how this ability remains accurate for various geometries and growth stages, 
+  even when the model is applied to noisy data or when the reconstruction is incomplete."
   # project_page: ''
   github: ''
   link: https://www.sciencedirect.com/science/article/abs/pii/S0168169918306008
