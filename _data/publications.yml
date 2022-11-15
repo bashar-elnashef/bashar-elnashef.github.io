@@ -1,4 +1,29 @@
 
+- id: domeport
+  title: "Geometry, calibration, and robust centering procedures for refractive dome-port based imaging systems"
+  venue: ISPRS Journal of Photogrammetry and Remote Sensing, 2022
+  description: "Underwater imaging systems equipped with hemispherical ports can preserve the field of view and avert refraction when the camera and sphere centers coincide. 
+  Setting the camera at that center is a challenge, and deviation from this position introduces non-linear geometric distortions. 
+  These distortions have been treated by either computing the set of calibration parameters or by a more involved process of mechanically adjusting the camera center. 
+  Such strategies were approached empirically, and only recently have analytical system models begun to emerge. 
+  In this paper, we examine the geometry of dome-port-equipped imaging systems to develop a representation in which the non-linear ray trajectory is directly incorporated into the collinearity equations. 
+  The derivations apply for thin- and thick-layer interfaces and to the in-air setup. 
+  Our forms confirm the observations that when the camera and sphere center do not coincide, the system becomes axial. 
+  Yet, we improve on that observation by analytically demonstrating that with a slight modification to the camera parameters, the system model becomes central rather than the more involved form. 
+  Therefore, we not only link the axial realization with the commonly applied central form but also explain how to support this adaptation. 
+  Our representation and realizations translate to direct and optimal pose estimation and calibration forms that can be solved using standard protocols. 
+  To minimize distortions, we also propose a single-phase camera-centering solution. 
+  We demonstrate how our solution exhibits robustness to the initial camera placement and how the required parameters can be estimated linearly. 
+  Numerical and experimental evaluations support our calibration solution and demonstrate how our centering procedure captures the necessary displacement to a sub-tenth of a millimeter level."
+  # project_page: ''
+  # github: ''
+  link: https://www.sciencedirect.com/science/article/abs/pii/S0924271622002635
+  researchgate: https://www.researchgate.net/publication/364673037_Geometry_calibration_and_robust_centering_procedures_for_refractive_dome-port_based_imaging_systems
+  image: domeport.png
+  authors:
+    - bashar
+    - sagi
+
 
 - id: targetfree
   title: "Target-free calibration of flat refractive imaging systems using two-view geometry"
@@ -6,7 +31,7 @@
   description: "We propose in this paper a flat-refractive two-view calibration forms that allows theestimation of the system parameters independent of any scene knowledge. 
   This relieves the need for the establishment of external reference frames and allows to estimate the system parameters through the course of the mission and on-the-fly"
   # project_page: ''
-  github: ''
+  # github: ''
   link: https://www.sciencedirect.com/science/article/abs/pii/S0143816621003262
   researchgate: https://www.researchgate.net/publication/356001522_Target-free_calibration_of_flat_refractive_imaging_systems_using_two-view_geometry
   image: targetfree.jpg
@@ -21,7 +46,7 @@
   description: "we propose a method for estimating the global rotations of a set of views independent of their translation and the scene structure for generalized cameras. 
   This method is then used to improve the robustness, efficiency, and convergence of the solution when used as a refinement to the global rotations."
   # project_page: ''
-  github: ''
+  # github: ''
   link: https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/V-2-2022/325/2022/
   researchgate: https://www.researchgate.net/publication/360685293_ROTATION_ONLY_BUNDLE-ADJUSTMENT_FOR_THE_GENERALIZED_CAMERA_MODEL_AND_ITS_APPLICATION_FOR_LARGE-SCALE_UNDERWATER_IMAGE-SETS
   image: groba.jpg
@@ -37,7 +62,7 @@
   description: "We reformulate the ray-tracing problem of the ray propgation through a thick spherical interface as a 22-degree polynomial problem. 
   This we then show can be relaxed to 4- and 8-degree polynomials for which the 4-degree one consitute a closed form solution in constant time to an already highly non-linear problem."
   # project_page: ''
-  github: ''
+  # github: ''
   link: https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/V-2-2022/9/2022/
   researchgate: https://www.researchgate.net/publication/360678516_ANALYTICAL_FORWARD-PROJECTION_AND_SYSTEM_CALIBRATION_FOR_IMAGING_THROUGH_REFRACTIVE_WINDSHIELDS_IN_AUTOMOTIVE_APPLICATIONS
   image: windshiled.jpg
@@ -55,7 +80,7 @@
   The methods adopts a local warp model which we improve by adding a global constraint that allows generating optimal warps for all images in a single optimization. 
   This way, the distortions are also minimized globally and linearly in the least-squares sense."
   # project_page: ''
-  github: ''
+  # github: ''
   link: https://ieeexplore.ieee.org/abstract/document/9705973
   researchgate: https://www.researchgate.net/publication/358969469_Underwater_image_stitching_using_globally_optimal_local_homographies_with_application_to_seafloor_mosaicing
   image: mosaicing.jpg
@@ -70,7 +95,7 @@
   venue: ISPRS Annals of Photogrammetry, Remote Sensing & Spatial Information Sciences, 2020
   description: "A direct solution to the two-view flat-refractive problem."
   # project_page: ''
-  github: ''
+  # github: ''
   link: https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/V-2-2020/665/2020/
   researchgate: https://www.researchgate.net/publication/356001522_Target-free_calibration_of_flat_refractive_imaging_systems_using_two-view_geometry
   image: directrelative.JPG
@@ -85,7 +110,7 @@
   venue: Journal of Photogrammetric Engineering & Remote Sensing, 2020
   description: "A novel pose estimation and calibration formulation for catadioptric cameras with spherical mirrors."
   # project_page: ''
-  github: ''
+  # github: ''
   link: https://www.ingentaconnect.com/content/asprs/pers/2020/00000086/00000001/art00010;jsessionid=429i79nteoluk.x-ic-live-03
   researchgate: https://www.researchgate.net/publication/338620480_Robust_Pose_Estimation_and_Calibration_of_Catadioptric_Cameras_With_Spherical_Mirrors?_sg%5B0%5D=i1Oc4il7Nopcp6WlnFHmEyEKX63TG1xDo6pzkuCrHugU-TvCyrrBAPo545qgCSpI-BM8BLMEynOgCdVwyS5TYB_dJLyEJ_gViGkr0uN-.IIINW5zfsn6HK9qBB2KYv0gPa-HCpmmgQgfDJBiwG4hzl3JYnOYnxakORm6A3exMdgntllE0HpFIg-jLDH6F-Q
   image: catadioptric.png
@@ -101,7 +126,7 @@
   description: "Developed a new phiscally exact forms for the ray trajectory through refraction at a flat-interface. 
   One of the forms is invariant to the effect of refraction on the system and allow linear estimation of the camera pose in a direct and linear manner."
   # project_page: ''
-  github: ''
+  # github: ''
   link: https://www.sciencedirect.com/science/article/abs/pii/S0924271619301455
   researchgate: https://www.researchgate.net/publication/334263109_Direct_linear_and_refraction-invariant_pose_estimation_and_calibration_model_for_underwater_imaging?_sg%5B0%5D=i1Oc4il7Nopcp6WlnFHmEyEKX63TG1xDo6pzkuCrHugU-TvCyrrBAPo545qgCSpI-BM8BLMEynOgCdVwyS5TYB_dJLyEJ_gViGkr0uN-.IIINW5zfsn6HK9qBB2KYv0gPa-HCpmmgQgfDJBiwG4hzl3JYnOYnxakORm6A3exMdgntllE0HpFIg-jLDH6F-Q
   image: invariant.jpg
@@ -123,7 +148,7 @@
   Considering the fact that 3-D morphological modeling is nondestructive, is based on commercially available RGB sensors and can be used under natural illumination; 
   this approach holds potential contribution for site specific pre-emergence managements of parasitic weeds and as a phenotyping tool in O. cumana resistant sunflower breeding projects."
   # project_page: ''
-  github: ''
+  # github: ''
   link: https://www.mdpi.com/1424-8220/19/7/1569
   researchgate: https://www.researchgate.net/publication/332148312_3-D_Image-Driven_Morphological_Crop_Analysis_A_Novel_Method_for_Detection_of_Sunflower_Broomrape_Initial_Subsoil_Parasitism
   image: broomrape.jpg
@@ -141,7 +166,7 @@
   The derived information provides an organ-level phenotyping ability, and the paper shows how this ability remains accurate for various geometries and growth stages, 
   even when the model is applied to noisy data or when the reconstruction is incomplete."
   # project_page: ''
-  github: ''
+  # github: ''
   link: https://www.sciencedirect.com/science/article/abs/pii/S0168169918306008
   researchgate: https://www.researchgate.net/publication/330055443_Tensor-based_classification_and_segmentation_of_three-dimensional_point_clouds_for_organ-level_plant_phenotyping_and_growth_analysis
   image: tensor.jpg
